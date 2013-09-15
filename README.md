@@ -45,7 +45,7 @@ you will need to edit your hosts file
 
 at either /etc/hosts file in linux/OSX or C:\Windows\System32\drivers\etc\hosts file in Windows flavours
 
-and you will need to add in the ip addresses of the hosts.txt file which is in the same git as this readme
+and you will need to add in the ip addresses of the https://github.com/Briarios/theworld/blob/master/hosts.txt file which is in the same git as this readme
 
 these ip addresses are addresses of youtube's many caching servers around the world. 
 
