@@ -1,0 +1,785 @@
+# add these addresses to your /etc/hosts file in linux/OSX or 
+# C:\Windows\System32\drivers\etc\hosts file in Windows flavours
+
+# youtube large cache servers
+
+209.85.229.99 www.youtube.com
+209.85.229.99 youtube.com
+74.125.13.80 v1.lscache1.c.youtube.com
+74.125.13.83 v2.lscache1.c.youtube.com
+74.125.13.86 v3.lscache1.c.youtube.com
+74.125.13.89 v4.lscache1.c.youtube.com
+74.125.13.92 v5.lscache1.c.youtube.com
+74.125.13.95 v6.lscache1.c.youtube.com
+74.125.13.98 v7.lscache1.c.youtube.com
+74.125.13.101 v8.lscache1.c.youtube.com
+74.125.97.17 v9.lscache1.c.youtube.com
+74.125.97.84 v10.lscache1.c.youtube.com
+74.125.13.87 v11.lscache1.c.youtube.com
+74.125.13.90 v12.lscache1.c.youtube.com
+74.125.13.93 v13.lscache1.c.youtube.com
+74.125.13.96 v14.lscache1.c.youtube.com
+74.125.13.99 v15.lscache1.c.youtube.com
+74.125.97.38 v16.lscache1.c.youtube.com
+74.125.13.82 v17.lscache1.c.youtube.com
+74.125.13.85 v18.lscache1.c.youtube.com
+74.125.13.88 v19.lscache1.c.youtube.com
+74.125.13.91 v20.lscache1.c.youtube.com
+74.125.13.94 v21.lscache1.c.youtube.com
+74.125.13.97 v22.lscache1.c.youtube.com
+74.125.13.100 v23.lscache1.c.youtube.com
+74.125.13.103 v24.lscache1.c.youtube.com
+74.125.13.80 v1.lscache2.c.youtube.com
+74.125.13.83 v2.lscache2.c.youtube.com
+74.125.13.86 v3.lscache2.c.youtube.com
+74.125.13.89 v4.lscache2.c.youtube.com
+74.125.13.92 v5.lscache2.c.youtube.com
+74.125.13.95 v6.lscache2.c.youtube.com
+74.125.13.98 v7.lscache2.c.youtube.com
+74.125.13.101 v8.lscache2.c.youtube.com
+74.125.13.81 v9.lscache2.c.youtube.com
+74.125.13.84 v10.lscache2.c.youtube.com
+74.125.13.87 v11.lscache2.c.youtube.com
+74.125.13.90 v12.lscache2.c.youtube.com
+74.125.13.93 v13.lscache2.c.youtube.com
+74.125.13.96 v14.lscache2.c.youtube.com
+74.125.13.99 v15.lscache2.c.youtube.com
+74.125.13.102 v16.lscache2.c.youtube.com
+74.125.13.82 v17.lscache2.c.youtube.com
+74.125.13.85 v18.lscache2.c.youtube.com
+74.125.13.88 v19.lscache2.c.youtube.com
+74.125.13.91 v20.lscache2.c.youtube.com
+74.125.13.94 v21.lscache2.c.youtube.com
+74.125.13.97 v22.lscache2.c.youtube.com
+74.125.13.100 v23.lscache2.c.youtube.com
+74.125.13.103 v24.lscache2.c.youtube.com
+74.125.99.80 v1.lscache3.c.youtube.com
+74.125.99.83 v2.lscache3.c.youtube.com
+74.125.99.86 v3.lscache3.c.youtube.com
+74.125.99.89 v4.lscache3.c.youtube.com
+74.125.99.92 v5.lscache3.c.youtube.com
+74.125.99.95 v6.lscache3.c.youtube.com
+74.125.99.98 v7.lscache3.c.youtube.com
+74.125.99.101 v8.lscache3.c.youtube.com
+74.125.99.81 v9.lscache3.c.youtube.com
+74.125.99.84 v10.lscache3.c.youtube.com
+74.125.99.87 v11.lscache3.c.youtube.com
+74.125.99.90 v12.lscache3.c.youtube.com
+74.125.99.93 v13.lscache3.c.youtube.com
+74.125.97.32 v14.lscache3.c.youtube.com
+74.125.99.99 v15.lscache3.c.youtube.com
+74.125.99.102 v16.lscache3.c.youtube.com
+74.125.99.82 v17.lscache3.c.youtube.com
+74.125.99.85 v18.lscache3.c.youtube.com
+74.125.99.88 v19.lscache3.c.youtube.com
+74.125.99.91 v20.lscache3.c.youtube.com
+74.125.99.94 v21.lscache3.c.youtube.com
+74.125.99.97 v22.lscache3.c.youtube.com
+74.125.99.100 v23.lscache3.c.youtube.com
+74.125.99.103 v24.lscache3.c.youtube.com
+74.125.99.80 v1.lscache4.c.youtube.com
+74.125.99.83 v2.lscache4.c.youtube.com
+74.125.99.86 v3.lscache4.c.youtube.com
+74.125.99.89 v4.lscache4.c.youtube.com
+74.125.99.92 v5.lscache4.c.youtube.com
+74.125.99.95 v6.lscache4.c.youtube.com
+74.125.99.98 v7.lscache4.c.youtube.com
+74.125.99.101 v8.lscache4.c.youtube.com
+74.125.99.81 v9.lscache4.c.youtube.com
+74.125.99.84 v10.lscache4.c.youtube.com
+74.125.99.87 v11.lscache4.c.youtube.com
+74.125.99.90 v12.lscache4.c.youtube.com
+74.125.99.93 v13.lscache4.c.youtube.com
+74.125.99.96 v14.lscache4.c.youtube.com
+74.125.99.99 v15.lscache4.c.youtube.com
+74.125.99.102 v16.lscache4.c.youtube.com
+74.125.99.82 v17.lscache4.c.youtube.com
+74.125.99.85 v18.lscache4.c.youtube.com
+74.125.99.88 v19.lscache4.c.youtube.com
+74.125.99.91 v20.lscache4.c.youtube.com
+74.125.99.94 v21.lscache4.c.youtube.com
+74.125.99.97 v22.lscache4.c.youtube.com
+74.125.99.100 v23.lscache4.c.youtube.com
+74.125.99.103 v24.lscache4.c.youtube.com
+74.125.99.16 v1.lscache5.c.youtube.com
+74.125.99.19 v2.lscache5.c.youtube.com
+74.125.99.22 v3.lscache5.c.youtube.com
+74.125.99.25 v4.lscache5.c.youtube.com
+74.125.99.28 v5.lscache5.c.youtube.com
+74.125.99.31 v6.lscache5.c.youtube.com
+74.125.99.34 v7.lscache5.c.youtube.com
+74.125.99.37 v8.lscache5.c.youtube.com
+74.125.99.17 v9.lscache5.c.youtube.com
+74.125.97.20 v10.lscache5.c.youtube.com
+74.125.99.23 v11.lscache5.c.youtube.com
+74.125.170.154 v12.lscache5.c.youtube.com
+74.125.99.29 v13.lscache5.c.youtube.com
+74.125.99.32 v14.lscache5.c.youtube.com
+74.125.99.35 v15.lscache5.c.youtube.com
+74.125.99.38 v16.lscache5.c.youtube.com
+74.125.99.18 v17.lscache5.c.youtube.com
+74.125.99.21 v18.lscache5.c.youtube.com
+74.125.99.24 v19.lscache5.c.youtube.com
+74.125.99.27 v20.lscache5.c.youtube.com
+74.125.99.30 v21.lscache5.c.youtube.com
+74.125.99.33 v22.lscache5.c.youtube.com
+74.125.99.36 v23.lscache5.c.youtube.com
+74.125.99.39 v24.lscache5.c.youtube.com
+74.125.99.16 v1.lscache6.c.youtube.com
+74.125.99.19 v2.lscache6.c.youtube.com
+74.125.99.22 v3.lscache6.c.youtube.com
+74.125.99.25 v4.lscache6.c.youtube.com
+74.125.99.28 v5.lscache6.c.youtube.com
+74.125.99.31 v6.lscache6.c.youtube.com
+74.125.99.34 v7.lscache6.c.youtube.com
+74.125.99.37 v8.lscache6.c.youtube.com
+74.125.99.17 v9.lscache6.c.youtube.com
+74.125.99.20 v10.lscache6.c.youtube.com
+74.125.99.23 v11.lscache6.c.youtube.com
+74.125.99.26 v12.lscache6.c.youtube.com
+74.125.99.29 v13.lscache6.c.youtube.com
+74.125.99.32 v14.lscache6.c.youtube.com
+74.125.99.35 v15.lscache6.c.youtube.com
+74.125.99.38 v16.lscache6.c.youtube.com
+74.125.99.18 v17.lscache6.c.youtube.com
+74.125.99.21 v18.lscache6.c.youtube.com
+74.125.99.24 v19.lscache6.c.youtube.com
+74.125.99.27 v20.lscache6.c.youtube.com
+74.125.99.30 v21.lscache6.c.youtube.com
+74.125.99.33 v22.lscache6.c.youtube.com
+74.125.99.36 v23.lscache6.c.youtube.com
+74.125.99.39 v24.lscache6.c.youtube.com
+74.125.170.208 v1.lscache7.c.youtube.com
+74.125.170.211 v2.lscache7.c.youtube.com
+74.125.170.214 v3.lscache7.c.youtube.com
+74.125.170.217 v4.lscache7.c.youtube.com
+74.125.170.220 v5.lscache7.c.youtube.com
+74.125.170.223 v6.lscache7.c.youtube.com
+74.125.170.226 v7.lscache7.c.youtube.com
+74.125.170.229 v8.lscache7.c.youtube.com
+74.125.170.209 v9.lscache7.c.youtube.com
+74.125.170.212 v10.lscache7.c.youtube.com
+74.125.170.215 v11.lscache7.c.youtube.com
+74.125.170.218 v12.lscache7.c.youtube.com
+74.125.170.221 v13.lscache7.c.youtube.com
+74.125.170.224 v14.lscache7.c.youtube.com
+74.125.170.227 v15.lscache7.c.youtube.com
+74.125.170.230 v16.lscache7.c.youtube.com
+74.125.170.210 v17.lscache7.c.youtube.com
+74.125.170.213 v18.lscache7.c.youtube.com
+74.125.170.216 v19.lscache7.c.youtube.com
+74.125.170.219 v20.lscache7.c.youtube.com
+74.125.170.222 v21.lscache7.c.youtube.com
+74.125.170.225 v22.lscache7.c.youtube.com
+74.125.170.228 v23.lscache7.c.youtube.com
+74.125.170.231 v24.lscache7.c.youtube.com
+74.125.170.208 v1.lscache8.c.youtube.com
+74.125.170.211 v2.lscache8.c.youtube.com
+74.125.170.214 v3.lscache8.c.youtube.com
+74.125.170.217 v4.lscache8.c.youtube.com
+74.125.170.220 v5.lscache8.c.youtube.com
+74.125.170.159 v6.lscache8.c.youtube.com
+74.125.170.226 v7.lscache8.c.youtube.com
+74.125.170.229 v8.lscache8.c.youtube.com
+74.125.170.209 v9.lscache8.c.youtube.com
+74.125.170.212 v10.lscache8.c.youtube.com
+74.125.170.215 v11.lscache8.c.youtube.com
+74.125.170.218 v12.lscache8.c.youtube.com
+74.125.170.221 v13.lscache8.c.youtube.com
+74.125.170.224 v14.lscache8.c.youtube.com
+74.125.170.227 v15.lscache8.c.youtube.com
+74.125.170.230 v16.lscache8.c.youtube.com
+74.125.170.210 v17.lscache8.c.youtube.com
+74.125.170.213 v18.lscache8.c.youtube.com
+74.125.170.216 v19.lscache8.c.youtube.com
+74.125.170.219 v20.lscache8.c.youtube.com
+74.125.170.222 v21.lscache8.c.youtube.com
+74.125.170.225 v22.lscache8.c.youtube.com
+74.125.170.228 v23.lscache8.c.youtube.com
+74.125.170.231 v24.lscache8.c.youtube.com
+
+
+
+
+# youtube small cache servers
+
+173.194.51.6    r1.sn-i3b76n7e.c.youtube.com      	r1---sn-i3b76n7e.c.youtube.com      
+173.194.51.7    r2.sn-i3b76n7e.c.youtube.com      	r2---sn-i3b76n7e.c.youtube.com      
+173.194.51.8    r3.sn-i3b76n7e.c.youtube.com      	r3---sn-i3b76n7e.c.youtube.com      
+173.194.51.9    r4.sn-i3b76n7e.c.youtube.com      	r4---sn-i3b76n7e.c.youtube.com      
+173.194.51.10    r5.sn-i3b76n7e.c.youtube.com      	r5---sn-i3b76n7e.c.youtube.com      
+173.194.51.11    r6.sn-i3b76n7e.c.youtube.com      	r6---sn-i3b76n7e.c.youtube.com      
+173.194.51.12    r7.sn-i3b76n7e.c.youtube.com      	r7---sn-i3b76n7e.c.youtube.com      
+173.194.51.13    r8.sn-i3b76n7e.c.youtube.com      	r8---sn-i3b76n7e.c.youtube.com      
+173.194.51.14    r9.sn-i3b76n7e.c.youtube.com      	r9---sn-i3b76n7e.c.youtube.com      
+173.194.51.15    r10.sn-i3b76n7e.c.youtube.com      	r10---sn-i3b76n7e.c.youtube.com      
+173.194.51.16    r11.sn-i3b76n7e.c.youtube.com      	r11---sn-i3b76n7e.c.youtube.com      
+173.194.51.17    r12.sn-i3b76n7e.c.youtube.com      	r12---sn-i3b76n7e.c.youtube.com      
+173.194.51.18    r13.sn-i3b76n7e.c.youtube.com      	r13---sn-i3b76n7e.c.youtube.com      
+173.194.51.19    r14.sn-i3b76n7e.c.youtube.com      	r14---sn-i3b76n7e.c.youtube.com      
+173.194.51.20    r15.sn-i3b76n7e.c.youtube.com      	r15---sn-i3b76n7e.c.youtube.com      
+173.194.51.21    r16.sn-i3b76n7e.c.youtube.com      	r16---sn-i3b76n7e.c.youtube.com      
+173.194.51.22    r17.sn-i3b76n7e.c.youtube.com      	r17---sn-i3b76n7e.c.youtube.com      
+173.194.51.23    r18.sn-i3b76n7e.c.youtube.com      	r18---sn-i3b76n7e.c.youtube.com      
+173.194.51.24    r19.sn-i3b76n7e.c.youtube.com      	r19---sn-i3b76n7e.c.youtube.com      
+173.194.51.25    r20.sn-i3b76n7e.c.youtube.com      	r20---sn-i3b76n7e.c.youtube.com      
+173.194.51.38    r1.sn-i3b76n7l.c.youtube.com      	r1---sn-i3b76n7l.c.youtube.com      
+173.194.51.39    r2.sn-i3b76n7l.c.youtube.com      	r2---sn-i3b76n7l.c.youtube.com      
+173.194.51.40    r3.sn-i3b76n7l.c.youtube.com      	r3---sn-i3b76n7l.c.youtube.com      
+173.194.51.41    r4.sn-i3b76n7l.c.youtube.com      	r4---sn-i3b76n7l.c.youtube.com      
+173.194.51.42    r5.sn-i3b76n7l.c.youtube.com      	r5---sn-i3b76n7l.c.youtube.com      
+173.194.51.43    r6.sn-i3b76n7l.c.youtube.com      	r6---sn-i3b76n7l.c.youtube.com      
+173.194.51.44    r7.sn-i3b76n7l.c.youtube.com      	r7---sn-i3b76n7l.c.youtube.com      
+173.194.51.45    r8.sn-i3b76n7l.c.youtube.com      	r8---sn-i3b76n7l.c.youtube.com      
+173.194.51.46    r9.sn-i3b76n7l.c.youtube.com      	r9---sn-i3b76n7l.c.youtube.com      
+173.194.51.47    r10.sn-i3b76n7l.c.youtube.com      	r10---sn-i3b76n7l.c.youtube.com      
+173.194.51.48    r11.sn-i3b76n7l.c.youtube.com      	r11---sn-i3b76n7l.c.youtube.com      
+173.194.51.49    r12.sn-i3b76n7l.c.youtube.com      	r12---sn-i3b76n7l.c.youtube.com      
+173.194.51.50    r13.sn-i3b76n7l.c.youtube.com      	r13---sn-i3b76n7l.c.youtube.com      
+173.194.51.51    r14.sn-i3b76n7l.c.youtube.com      	r14---sn-i3b76n7l.c.youtube.com      
+173.194.51.52    r15.sn-i3b76n7l.c.youtube.com      	r15---sn-i3b76n7l.c.youtube.com      
+173.194.51.53    r16.sn-i3b76n7l.c.youtube.com      	r16---sn-i3b76n7l.c.youtube.com      
+173.194.51.54    r17.sn-i3b76n7l.c.youtube.com      	r17---sn-i3b76n7l.c.youtube.com      
+173.194.51.55    r18.sn-i3b76n7l.c.youtube.com      	r18---sn-i3b76n7l.c.youtube.com      
+173.194.51.56    r19.sn-i3b76n7l.c.youtube.com      	r19---sn-i3b76n7l.c.youtube.com      
+173.194.51.57    r20.sn-i3b76n7l.c.youtube.com      	r20---sn-i3b76n7l.c.youtube.com      
+173.194.51.70    r1.sn-i3b76n7s.c.youtube.com      	r1---sn-i3b76n7s.c.youtube.com      
+173.194.51.71    r2.sn-i3b76n7s.c.youtube.com      	r2---sn-i3b76n7s.c.youtube.com      
+173.194.51.72    r3.sn-i3b76n7s.c.youtube.com      	r3---sn-i3b76n7s.c.youtube.com      
+173.194.51.73    r4.sn-i3b76n7s.c.youtube.com      	r4---sn-i3b76n7s.c.youtube.com      
+173.194.51.74    r5.sn-i3b76n7s.c.youtube.com      	r5---sn-i3b76n7s.c.youtube.com      
+173.194.51.75    r6.sn-i3b76n7s.c.youtube.com      	r6---sn-i3b76n7s.c.youtube.com      
+173.194.51.76    r7.sn-i3b76n7s.c.youtube.com      	r7---sn-i3b76n7s.c.youtube.com      
+173.194.51.77    r8.sn-i3b76n7s.c.youtube.com      	r8---sn-i3b76n7s.c.youtube.com      
+173.194.51.78    r9.sn-i3b76n7s.c.youtube.com      	r9---sn-i3b76n7s.c.youtube.com      
+173.194.51.79    r10.sn-i3b76n7s.c.youtube.com      	r10---sn-i3b76n7s.c.youtube.com      
+173.194.51.80    r11.sn-i3b76n7s.c.youtube.com      	r11---sn-i3b76n7s.c.youtube.com      
+173.194.51.81    r12.sn-i3b76n7s.c.youtube.com      	r12---sn-i3b76n7s.c.youtube.com      
+173.194.51.82    r13.sn-i3b76n7s.c.youtube.com      	r13---sn-i3b76n7s.c.youtube.com      
+173.194.51.83    r14.sn-i3b76n7s.c.youtube.com      	r14---sn-i3b76n7s.c.youtube.com      
+173.194.51.84    r15.sn-i3b76n7s.c.youtube.com      	r15---sn-i3b76n7s.c.youtube.com      
+173.194.51.85    r16.sn-i3b76n7s.c.youtube.com      	r16---sn-i3b76n7s.c.youtube.com      
+173.194.51.86    r17.sn-i3b76n7s.c.youtube.com      	r17---sn-i3b76n7s.c.youtube.com      
+173.194.51.87    r18.sn-i3b76n7s.c.youtube.com      	r18---sn-i3b76n7s.c.youtube.com      
+173.194.51.88    r19.sn-i3b76n7s.c.youtube.com      	r19---sn-i3b76n7s.c.youtube.com      
+173.194.51.89    r20.sn-i3b76n7s.c.youtube.com      	r20---sn-i3b76n7s.c.youtube.com      
+173.194.51.102    r1.sn-i3b76n7z.c.youtube.com      	r1---sn-i3b76n7z.c.youtube.com      
+173.194.51.103    r2.sn-i3b76n7z.c.youtube.com      	r2---sn-i3b76n7z.c.youtube.com      
+173.194.51.104    r3.sn-i3b76n7z.c.youtube.com      	r3---sn-i3b76n7z.c.youtube.com      
+173.194.51.105    r4.sn-i3b76n7z.c.youtube.com      	r4---sn-i3b76n7z.c.youtube.com      
+173.194.51.106    r5.sn-i3b76n7z.c.youtube.com      	r5---sn-i3b76n7z.c.youtube.com      
+173.194.51.107    r6.sn-i3b76n7z.c.youtube.com      	r6---sn-i3b76n7z.c.youtube.com      
+173.194.51.108    r7.sn-i3b76n7z.c.youtube.com      	r7---sn-i3b76n7z.c.youtube.com      
+173.194.51.109    r8.sn-i3b76n7z.c.youtube.com      	r8---sn-i3b76n7z.c.youtube.com      
+173.194.51.110    r9.sn-i3b76n7z.c.youtube.com      	r9---sn-i3b76n7z.c.youtube.com      
+173.194.51.111    r10.sn-i3b76n7z.c.youtube.com      	r10---sn-i3b76n7z.c.youtube.com      
+173.194.51.112    r11.sn-i3b76n7z.c.youtube.com      	r11---sn-i3b76n7z.c.youtube.com      
+173.194.51.113    r12.sn-i3b76n7z.c.youtube.com      	r12---sn-i3b76n7z.c.youtube.com      
+173.194.51.114    r13.sn-i3b76n7z.c.youtube.com      	r13---sn-i3b76n7z.c.youtube.com      
+173.194.51.115    r14.sn-i3b76n7z.c.youtube.com      	r14---sn-i3b76n7z.c.youtube.com      
+173.194.51.116    r15.sn-i3b76n7z.c.youtube.com      	r15---sn-i3b76n7z.c.youtube.com      
+173.194.51.117    r16.sn-i3b76n7z.c.youtube.com      	r16---sn-i3b76n7z.c.youtube.com      
+173.194.51.118    r17.sn-i3b76n7z.c.youtube.com      	r17---sn-i3b76n7z.c.youtube.com      
+173.194.51.119    r18.sn-i3b76n7z.c.youtube.com      	r18---sn-i3b76n7z.c.youtube.com      
+173.194.51.120    r19.sn-i3b76n7z.c.youtube.com      	r19---sn-i3b76n7z.c.youtube.com      
+173.194.51.121    r20.sn-i3b76n7z.c.youtube.com      	r20---sn-i3b76n7z.c.youtube.com      
+74.125.10.6    r1.sn-i3b7sn76.c.youtube.com      	r1---sn-i3b7sn76.c.youtube.com      
+74.125.10.7    r2.sn-i3b7sn76.c.youtube.com      	r2---sn-i3b7sn76.c.youtube.com      
+74.125.10.8    r3.sn-i3b7sn76.c.youtube.com      	r3---sn-i3b7sn76.c.youtube.com      
+74.125.10.9    r4.sn-i3b7sn76.c.youtube.com      	r4---sn-i3b7sn76.c.youtube.com      
+74.125.10.10    r5.sn-i3b7sn76.c.youtube.com      	r5---sn-i3b7sn76.c.youtube.com      
+74.125.10.11    r6.sn-i3b7sn76.c.youtube.com      	r6---sn-i3b7sn76.c.youtube.com      
+74.125.10.12    r7.sn-i3b7sn76.c.youtube.com      	r7---sn-i3b7sn76.c.youtube.com      
+74.125.10.13    r8.sn-i3b7sn76.c.youtube.com      	r8---sn-i3b7sn76.c.youtube.com      
+74.125.10.14    r9.sn-i3b7sn76.c.youtube.com      	r9---sn-i3b7sn76.c.youtube.com      
+74.125.10.15    r10.sn-i3b7sn76.c.youtube.com      	r10---sn-i3b7sn76.c.youtube.com      
+74.125.10.16    r11.sn-i3b7sn76.c.youtube.com      	r11---sn-i3b7sn76.c.youtube.com      
+74.125.10.17    r12.sn-i3b7sn76.c.youtube.com      	r12---sn-i3b7sn76.c.youtube.com      
+74.125.10.18    r13.sn-i3b7sn76.c.youtube.com      	r13---sn-i3b7sn76.c.youtube.com      
+74.125.10.19    r14.sn-i3b7sn76.c.youtube.com      	r14---sn-i3b7sn76.c.youtube.com      
+74.125.10.20    r15.sn-i3b7sn76.c.youtube.com      	r15---sn-i3b7sn76.c.youtube.com      
+74.125.10.21    r16.sn-i3b7sn76.c.youtube.com      	r16---sn-i3b7sn76.c.youtube.com      
+74.125.10.22    r17.sn-i3b7sn76.c.youtube.com      	r17---sn-i3b7sn76.c.youtube.com      
+74.125.10.23    r18.sn-i3b7sn76.c.youtube.com      	r18---sn-i3b7sn76.c.youtube.com      
+74.125.10.24    r19.sn-i3b7sn76.c.youtube.com      	r19---sn-i3b7sn76.c.youtube.com      
+74.125.10.25    r20.sn-i3b7sn76.c.youtube.com      	r20---sn-i3b7sn76.c.youtube.com      
+74.125.10.38    r1.sn-i3b7sn7d.c.youtube.com      	r1---sn-i3b7sn7d.c.youtube.com      
+74.125.10.39    r2.sn-i3b7sn7d.c.youtube.com      	r2---sn-i3b7sn7d.c.youtube.com      
+74.125.10.40    r3.sn-i3b7sn7d.c.youtube.com      	r3---sn-i3b7sn7d.c.youtube.com      
+74.125.10.41    r4.sn-i3b7sn7d.c.youtube.com      	r4---sn-i3b7sn7d.c.youtube.com      
+74.125.10.42    r5.sn-i3b7sn7d.c.youtube.com      	r5---sn-i3b7sn7d.c.youtube.com      
+74.125.10.43    r6.sn-i3b7sn7d.c.youtube.com      	r6---sn-i3b7sn7d.c.youtube.com      
+74.125.10.44    r7.sn-i3b7sn7d.c.youtube.com      	r7---sn-i3b7sn7d.c.youtube.com      
+74.125.10.45    r8.sn-i3b7sn7d.c.youtube.com      	r8---sn-i3b7sn7d.c.youtube.com      
+74.125.10.46    r9.sn-i3b7sn7d.c.youtube.com      	r9---sn-i3b7sn7d.c.youtube.com      
+74.125.10.47    r10.sn-i3b7sn7d.c.youtube.com      	r10---sn-i3b7sn7d.c.youtube.com      
+74.125.10.48    r11.sn-i3b7sn7d.c.youtube.com      	r11---sn-i3b7sn7d.c.youtube.com      
+74.125.10.49    r12.sn-i3b7sn7d.c.youtube.com      	r12---sn-i3b7sn7d.c.youtube.com      
+74.125.10.50    r13.sn-i3b7sn7d.c.youtube.com      	r13---sn-i3b7sn7d.c.youtube.com      
+74.125.10.51    r14.sn-i3b7sn7d.c.youtube.com      	r14---sn-i3b7sn7d.c.youtube.com      
+74.125.10.52    r15.sn-i3b7sn7d.c.youtube.com      	r15---sn-i3b7sn7d.c.youtube.com      
+74.125.10.53    r16.sn-i3b7sn7d.c.youtube.com      	r16---sn-i3b7sn7d.c.youtube.com      
+74.125.10.54    r17.sn-i3b7sn7d.c.youtube.com      	r17---sn-i3b7sn7d.c.youtube.com      
+74.125.10.55    r18.sn-i3b7sn7d.c.youtube.com      	r18---sn-i3b7sn7d.c.youtube.com      
+74.125.10.56    r19.sn-i3b7sn7d.c.youtube.com      	r19---sn-i3b7sn7d.c.youtube.com      
+74.125.10.57    r20.sn-i3b7sn7d.c.youtube.com      	r20---sn-i3b7sn7d.c.youtube.com      
+173.194.51.134    r1.sn-i3b7sn7e.c.youtube.com      	r1---sn-i3b7sn7e.c.youtube.com      
+173.194.51.135    r2.sn-i3b7sn7e.c.youtube.com      	r2---sn-i3b7sn7e.c.youtube.com      
+173.194.51.136    r3.sn-i3b7sn7e.c.youtube.com      	r3---sn-i3b7sn7e.c.youtube.com      
+173.194.51.137    r4.sn-i3b7sn7e.c.youtube.com      	r4---sn-i3b7sn7e.c.youtube.com      
+173.194.51.138    r5.sn-i3b7sn7e.c.youtube.com      	r5---sn-i3b7sn7e.c.youtube.com      
+173.194.51.139    r6.sn-i3b7sn7e.c.youtube.com      	r6---sn-i3b7sn7e.c.youtube.com      
+173.194.51.140    r7.sn-i3b7sn7e.c.youtube.com      	r7---sn-i3b7sn7e.c.youtube.com      
+173.194.51.141    r8.sn-i3b7sn7e.c.youtube.com      	r8---sn-i3b7sn7e.c.youtube.com      
+173.194.51.142    r9.sn-i3b7sn7e.c.youtube.com      	r9---sn-i3b7sn7e.c.youtube.com      
+173.194.51.143    r10.sn-i3b7sn7e.c.youtube.com      	r10---sn-i3b7sn7e.c.youtube.com      
+173.194.51.144    r11.sn-i3b7sn7e.c.youtube.com      	r11---sn-i3b7sn7e.c.youtube.com      
+173.194.51.145    r12.sn-i3b7sn7e.c.youtube.com      	r12---sn-i3b7sn7e.c.youtube.com      
+173.194.51.146    r13.sn-i3b7sn7e.c.youtube.com      	r13---sn-i3b7sn7e.c.youtube.com      
+173.194.51.147    r14.sn-i3b7sn7e.c.youtube.com      	r14---sn-i3b7sn7e.c.youtube.com      
+173.194.51.148    r15.sn-i3b7sn7e.c.youtube.com      	r15---sn-i3b7sn7e.c.youtube.com      
+173.194.51.149    r16.sn-i3b7sn7e.c.youtube.com      	r16---sn-i3b7sn7e.c.youtube.com      
+173.194.51.150    r17.sn-i3b7sn7e.c.youtube.com      	r17---sn-i3b7sn7e.c.youtube.com      
+173.194.51.151    r18.sn-i3b7sn7e.c.youtube.com      	r18---sn-i3b7sn7e.c.youtube.com      
+173.194.51.152    r19.sn-i3b7sn7e.c.youtube.com      	r19---sn-i3b7sn7e.c.youtube.com      
+173.194.51.153    r20.sn-i3b7sn7e.c.youtube.com      	r20---sn-i3b7sn7e.c.youtube.com      
+74.125.10.70    r1.sn-i3b7sn7k.c.youtube.com      	r1---sn-i3b7sn7k.c.youtube.com      
+74.125.10.71    r2.sn-i3b7sn7k.c.youtube.com      	r2---sn-i3b7sn7k.c.youtube.com      
+74.125.10.72    r3.sn-i3b7sn7k.c.youtube.com      	r3---sn-i3b7sn7k.c.youtube.com      
+74.125.10.73    r4.sn-i3b7sn7k.c.youtube.com      	r4---sn-i3b7sn7k.c.youtube.com      
+74.125.10.74    r5.sn-i3b7sn7k.c.youtube.com      	r5---sn-i3b7sn7k.c.youtube.com      
+74.125.10.75    r6.sn-i3b7sn7k.c.youtube.com      	r6---sn-i3b7sn7k.c.youtube.com      
+74.125.10.76    r7.sn-i3b7sn7k.c.youtube.com      	r7---sn-i3b7sn7k.c.youtube.com      
+74.125.10.77    r8.sn-i3b7sn7k.c.youtube.com      	r8---sn-i3b7sn7k.c.youtube.com      
+74.125.10.78    r9.sn-i3b7sn7k.c.youtube.com      	r9---sn-i3b7sn7k.c.youtube.com      
+74.125.10.79    r10.sn-i3b7sn7k.c.youtube.com      	r10---sn-i3b7sn7k.c.youtube.com      
+74.125.10.80    r11.sn-i3b7sn7k.c.youtube.com      	r11---sn-i3b7sn7k.c.youtube.com      
+74.125.10.81    r12.sn-i3b7sn7k.c.youtube.com      	r12---sn-i3b7sn7k.c.youtube.com      
+74.125.10.82    r13.sn-i3b7sn7k.c.youtube.com      	r13---sn-i3b7sn7k.c.youtube.com      
+74.125.10.83    r14.sn-i3b7sn7k.c.youtube.com      	r14---sn-i3b7sn7k.c.youtube.com      
+74.125.10.84    r15.sn-i3b7sn7k.c.youtube.com      	r15---sn-i3b7sn7k.c.youtube.com      
+74.125.10.85    r16.sn-i3b7sn7k.c.youtube.com      	r16---sn-i3b7sn7k.c.youtube.com      
+74.125.10.86    r17.sn-i3b7sn7k.c.youtube.com      	r17---sn-i3b7sn7k.c.youtube.com      
+74.125.10.87    r18.sn-i3b7sn7k.c.youtube.com      	r18---sn-i3b7sn7k.c.youtube.com      
+74.125.10.88    r19.sn-i3b7sn7k.c.youtube.com      	r19---sn-i3b7sn7k.c.youtube.com      
+74.125.10.89    r20.sn-i3b7sn7k.c.youtube.com      	r20---sn-i3b7sn7k.c.youtube.com      
+173.194.51.166    r1.sn-i3b7sn7l.c.youtube.com      	r1---sn-i3b7sn7l.c.youtube.com      
+173.194.51.167    r2.sn-i3b7sn7l.c.youtube.com      	r2---sn-i3b7sn7l.c.youtube.com      
+173.194.51.168    r3.sn-i3b7sn7l.c.youtube.com      	r3---sn-i3b7sn7l.c.youtube.com      
+173.194.51.169    r4.sn-i3b7sn7l.c.youtube.com      	r4---sn-i3b7sn7l.c.youtube.com      
+173.194.51.170    r5.sn-i3b7sn7l.c.youtube.com      	r5---sn-i3b7sn7l.c.youtube.com      
+173.194.51.171    r6.sn-i3b7sn7l.c.youtube.com      	r6---sn-i3b7sn7l.c.youtube.com      
+173.194.51.172    r7.sn-i3b7sn7l.c.youtube.com      	r7---sn-i3b7sn7l.c.youtube.com      
+173.194.51.173    r8.sn-i3b7sn7l.c.youtube.com      	r8---sn-i3b7sn7l.c.youtube.com      
+173.194.51.174    r9.sn-i3b7sn7l.c.youtube.com      	r9---sn-i3b7sn7l.c.youtube.com      
+173.194.51.175    r10.sn-i3b7sn7l.c.youtube.com      	r10---sn-i3b7sn7l.c.youtube.com      
+173.194.51.176    r11.sn-i3b7sn7l.c.youtube.com      	r11---sn-i3b7sn7l.c.youtube.com      
+173.194.51.177    r12.sn-i3b7sn7l.c.youtube.com      	r12---sn-i3b7sn7l.c.youtube.com      
+173.194.51.178    r13.sn-i3b7sn7l.c.youtube.com      	r13---sn-i3b7sn7l.c.youtube.com      
+173.194.51.179    r14.sn-i3b7sn7l.c.youtube.com      	r14---sn-i3b7sn7l.c.youtube.com      
+173.194.51.180    r15.sn-i3b7sn7l.c.youtube.com      	r15---sn-i3b7sn7l.c.youtube.com      
+173.194.51.181    r16.sn-i3b7sn7l.c.youtube.com      	r16---sn-i3b7sn7l.c.youtube.com      
+173.194.51.182    r17.sn-i3b7sn7l.c.youtube.com      	r17---sn-i3b7sn7l.c.youtube.com      
+173.194.51.183    r18.sn-i3b7sn7l.c.youtube.com      	r18---sn-i3b7sn7l.c.youtube.com      
+173.194.51.184    r19.sn-i3b7sn7l.c.youtube.com      	r19---sn-i3b7sn7l.c.youtube.com      
+173.194.51.185    r20.sn-i3b7sn7l.c.youtube.com      	r20---sn-i3b7sn7l.c.youtube.com      
+173.194.51.198    r1.sn-i3b7sn7s.c.youtube.com      	r1---sn-i3b7sn7s.c.youtube.com      
+173.194.51.199    r2.sn-i3b7sn7s.c.youtube.com      	r2---sn-i3b7sn7s.c.youtube.com      
+173.194.51.200    r3.sn-i3b7sn7s.c.youtube.com      	r3---sn-i3b7sn7s.c.youtube.com      
+173.194.51.201    r4.sn-i3b7sn7s.c.youtube.com      	r4---sn-i3b7sn7s.c.youtube.com      
+173.194.51.202    r5.sn-i3b7sn7s.c.youtube.com      	r5---sn-i3b7sn7s.c.youtube.com      
+173.194.51.203    r6.sn-i3b7sn7s.c.youtube.com      	r6---sn-i3b7sn7s.c.youtube.com      
+173.194.51.204    r7.sn-i3b7sn7s.c.youtube.com      	r7---sn-i3b7sn7s.c.youtube.com      
+173.194.51.205    r8.sn-i3b7sn7s.c.youtube.com      	r8---sn-i3b7sn7s.c.youtube.com      
+173.194.51.206    r9.sn-i3b7sn7s.c.youtube.com      	r9---sn-i3b7sn7s.c.youtube.com      
+173.194.51.207    r10.sn-i3b7sn7s.c.youtube.com      	r10---sn-i3b7sn7s.c.youtube.com      
+173.194.51.208    r11.sn-i3b7sn7s.c.youtube.com      	r11---sn-i3b7sn7s.c.youtube.com      
+173.194.51.209    r12.sn-i3b7sn7s.c.youtube.com      	r12---sn-i3b7sn7s.c.youtube.com      
+173.194.51.210    r13.sn-i3b7sn7s.c.youtube.com      	r13---sn-i3b7sn7s.c.youtube.com      
+173.194.51.211    r14.sn-i3b7sn7s.c.youtube.com      	r14---sn-i3b7sn7s.c.youtube.com      
+173.194.51.212    r15.sn-i3b7sn7s.c.youtube.com      	r15---sn-i3b7sn7s.c.youtube.com      
+173.194.51.213    r16.sn-i3b7sn7s.c.youtube.com      	r16---sn-i3b7sn7s.c.youtube.com      
+173.194.51.214    r17.sn-i3b7sn7s.c.youtube.com      	r17---sn-i3b7sn7s.c.youtube.com      
+173.194.51.215    r18.sn-i3b7sn7s.c.youtube.com      	r18---sn-i3b7sn7s.c.youtube.com      
+173.194.51.216    r19.sn-i3b7sn7s.c.youtube.com      	r19---sn-i3b7sn7s.c.youtube.com      
+173.194.51.217    r20.sn-i3b7sn7s.c.youtube.com      	r20---sn-i3b7sn7s.c.youtube.com      
+74.125.10.102    r1.sn-i3b7sn7r.c.youtube.com      	r1---sn-i3b7sn7r.c.youtube.com      
+74.125.10.103    r2.sn-i3b7sn7r.c.youtube.com      	r2---sn-i3b7sn7r.c.youtube.com      
+74.125.10.104    r3.sn-i3b7sn7r.c.youtube.com      	r3---sn-i3b7sn7r.c.youtube.com      
+74.125.10.105    r4.sn-i3b7sn7r.c.youtube.com      	r4---sn-i3b7sn7r.c.youtube.com      
+74.125.10.106    r5.sn-i3b7sn7r.c.youtube.com      	r5---sn-i3b7sn7r.c.youtube.com      
+74.125.10.107    r6.sn-i3b7sn7r.c.youtube.com      	r6---sn-i3b7sn7r.c.youtube.com      
+74.125.10.108    r7.sn-i3b7sn7r.c.youtube.com      	r7---sn-i3b7sn7r.c.youtube.com      
+74.125.10.109    r8.sn-i3b7sn7r.c.youtube.com      	r8---sn-i3b7sn7r.c.youtube.com      
+74.125.10.110    r9.sn-i3b7sn7r.c.youtube.com      	r9---sn-i3b7sn7r.c.youtube.com      
+74.125.10.111    r10.sn-i3b7sn7r.c.youtube.com      	r10---sn-i3b7sn7r.c.youtube.com      
+74.125.10.112    r11.sn-i3b7sn7r.c.youtube.com      	r11---sn-i3b7sn7r.c.youtube.com      
+74.125.10.113    r12.sn-i3b7sn7r.c.youtube.com      	r12---sn-i3b7sn7r.c.youtube.com      
+74.125.10.114    r13.sn-i3b7sn7r.c.youtube.com      	r13---sn-i3b7sn7r.c.youtube.com      
+74.125.10.115    r14.sn-i3b7sn7r.c.youtube.com      	r14---sn-i3b7sn7r.c.youtube.com      
+74.125.10.116    r15.sn-i3b7sn7r.c.youtube.com      	r15---sn-i3b7sn7r.c.youtube.com      
+74.125.10.117    r16.sn-i3b7sn7r.c.youtube.com      	r16---sn-i3b7sn7r.c.youtube.com      
+74.125.10.118    r17.sn-i3b7sn7r.c.youtube.com      	r17---sn-i3b7sn7r.c.youtube.com      
+74.125.10.119    r18.sn-i3b7sn7r.c.youtube.com      	r18---sn-i3b7sn7r.c.youtube.com      
+74.125.10.120    r19.sn-i3b7sn7r.c.youtube.com      	r19---sn-i3b7sn7r.c.youtube.com      
+74.125.10.121    r20.sn-i3b7sn7r.c.youtube.com      	r20---sn-i3b7sn7r.c.youtube.com      
+173.194.51.230    r1.sn-i3b7sn7z.c.youtube.com      	r1---sn-i3b7sn7z.c.youtube.com      
+173.194.51.231    r2.sn-i3b7sn7z.c.youtube.com      	r2---sn-i3b7sn7z.c.youtube.com      
+173.194.51.232    r3.sn-i3b7sn7z.c.youtube.com      	r3---sn-i3b7sn7z.c.youtube.com      
+173.194.51.233    r4.sn-i3b7sn7z.c.youtube.com      	r4---sn-i3b7sn7z.c.youtube.com      
+173.194.51.234    r5.sn-i3b7sn7z.c.youtube.com      	r5---sn-i3b7sn7z.c.youtube.com      
+173.194.51.235    r6.sn-i3b7sn7z.c.youtube.com      	r6---sn-i3b7sn7z.c.youtube.com      
+173.194.51.236    r7.sn-i3b7sn7z.c.youtube.com      	r7---sn-i3b7sn7z.c.youtube.com      
+173.194.51.237    r8.sn-i3b7sn7z.c.youtube.com      	r8---sn-i3b7sn7z.c.youtube.com      
+173.194.51.238    r9.sn-i3b7sn7z.c.youtube.com      	r9---sn-i3b7sn7z.c.youtube.com      
+173.194.51.239    r10.sn-i3b7sn7z.c.youtube.com      	r10---sn-i3b7sn7z.c.youtube.com      
+173.194.51.240    r11.sn-i3b7sn7z.c.youtube.com      	r11---sn-i3b7sn7z.c.youtube.com      
+173.194.51.241    r12.sn-i3b7sn7z.c.youtube.com      	r12---sn-i3b7sn7z.c.youtube.com      
+173.194.51.242    r13.sn-i3b7sn7z.c.youtube.com      	r13---sn-i3b7sn7z.c.youtube.com      
+173.194.51.243    r14.sn-i3b7sn7z.c.youtube.com      	r14---sn-i3b7sn7z.c.youtube.com      
+173.194.51.244    r15.sn-i3b7sn7z.c.youtube.com      	r15---sn-i3b7sn7z.c.youtube.com      
+173.194.51.245    r16.sn-i3b7sn7z.c.youtube.com      	r16---sn-i3b7sn7z.c.youtube.com      
+173.194.51.246    r17.sn-i3b7sn7z.c.youtube.com      	r17---sn-i3b7sn7z.c.youtube.com      
+173.194.51.247    r18.sn-i3b7sn7z.c.youtube.com      	r18---sn-i3b7sn7z.c.youtube.com      
+173.194.51.248    r19.sn-i3b7sn7z.c.youtube.com      	r19---sn-i3b7sn7z.c.youtube.com      
+173.194.51.249    r20.sn-i3b7sn7z.c.youtube.com      	r20---sn-i3b7sn7z.c.youtube.com      
+173.194.26.102    r1.sn-a5m7ln7d.c.youtube.com      	r1---sn-a5m7ln7d.c.youtube.com      
+173.194.26.103    r2.sn-a5m7ln7d.c.youtube.com      	r2---sn-a5m7ln7d.c.youtube.com      
+173.194.26.104    r3.sn-a5m7ln7d.c.youtube.com      	r3---sn-a5m7ln7d.c.youtube.com      
+173.194.26.105    r4.sn-a5m7ln7d.c.youtube.com      	r4---sn-a5m7ln7d.c.youtube.com      
+173.194.26.106    r5.sn-a5m7ln7d.c.youtube.com      	r5---sn-a5m7ln7d.c.youtube.com      
+173.194.26.107    r6.sn-a5m7ln7d.c.youtube.com      	r6---sn-a5m7ln7d.c.youtube.com      
+173.194.26.108    r7.sn-a5m7ln7d.c.youtube.com      	r7---sn-a5m7ln7d.c.youtube.com      
+173.194.26.109    r8.sn-a5m7ln7d.c.youtube.com      	r8---sn-a5m7ln7d.c.youtube.com      
+173.194.26.110    r9.sn-a5m7ln7d.c.youtube.com      	r9---sn-a5m7ln7d.c.youtube.com      
+173.194.26.111    r10.sn-a5m7ln7d.c.youtube.com      	r10---sn-a5m7ln7d.c.youtube.com      
+173.194.26.112    r11.sn-a5m7ln7d.c.youtube.com      	r11---sn-a5m7ln7d.c.youtube.com      
+173.194.26.113    r12.sn-a5m7ln7d.c.youtube.com      	r12---sn-a5m7ln7d.c.youtube.com      
+173.194.26.114    r13.sn-a5m7ln7d.c.youtube.com      	r13---sn-a5m7ln7d.c.youtube.com      
+173.194.26.115    r14.sn-a5m7ln7d.c.youtube.com      	r14---sn-a5m7ln7d.c.youtube.com      
+173.194.26.116    r15.sn-a5m7ln7d.c.youtube.com      	r15---sn-a5m7ln7d.c.youtube.com      
+173.194.26.117    r16.sn-a5m7ln7d.c.youtube.com      	r16---sn-a5m7ln7d.c.youtube.com      
+173.194.26.118    r17.sn-a5m7ln7d.c.youtube.com      	r17---sn-a5m7ln7d.c.youtube.com      
+173.194.26.119    r18.sn-a5m7ln7d.c.youtube.com      	r18---sn-a5m7ln7d.c.youtube.com      
+173.194.26.120    r19.sn-a5m7ln7d.c.youtube.com      	r19---sn-a5m7ln7d.c.youtube.com      
+173.194.26.121    r20.sn-a5m7ln7d.c.youtube.com      	r20---sn-a5m7ln7d.c.youtube.com      
+173.194.26.6    r1.sn-a5m7ln7s.c.youtube.com      	r1---sn-a5m7ln7s.c.youtube.com      
+173.194.26.7    r2.sn-a5m7ln7s.c.youtube.com      	r2---sn-a5m7ln7s.c.youtube.com      
+173.194.26.8    r3.sn-a5m7ln7s.c.youtube.com      	r3---sn-a5m7ln7s.c.youtube.com      
+173.194.26.9    r4.sn-a5m7ln7s.c.youtube.com      	r4---sn-a5m7ln7s.c.youtube.com      
+173.194.26.10    r5.sn-a5m7ln7s.c.youtube.com      	r5---sn-a5m7ln7s.c.youtube.com      
+173.194.26.11    r6.sn-a5m7ln7s.c.youtube.com      	r6---sn-a5m7ln7s.c.youtube.com      
+173.194.26.12    r7.sn-a5m7ln7s.c.youtube.com      	r7---sn-a5m7ln7s.c.youtube.com      
+173.194.26.13    r8.sn-a5m7ln7s.c.youtube.com      	r8---sn-a5m7ln7s.c.youtube.com      
+173.194.26.14    r9.sn-a5m7ln7s.c.youtube.com      	r9---sn-a5m7ln7s.c.youtube.com      
+173.194.26.15    r10.sn-a5m7ln7s.c.youtube.com      	r10---sn-a5m7ln7s.c.youtube.com      
+173.194.26.16    r11.sn-a5m7ln7s.c.youtube.com      	r11---sn-a5m7ln7s.c.youtube.com      
+173.194.26.17    r12.sn-a5m7ln7s.c.youtube.com      	r12---sn-a5m7ln7s.c.youtube.com      
+173.194.26.18    r13.sn-a5m7ln7s.c.youtube.com      	r13---sn-a5m7ln7s.c.youtube.com      
+173.194.26.19    r14.sn-a5m7ln7s.c.youtube.com      	r14---sn-a5m7ln7s.c.youtube.com      
+173.194.26.20    r15.sn-a5m7ln7s.c.youtube.com      	r15---sn-a5m7ln7s.c.youtube.com      
+173.194.26.21    r16.sn-a5m7ln7s.c.youtube.com      	r16---sn-a5m7ln7s.c.youtube.com      
+173.194.26.22    r17.sn-a5m7ln7s.c.youtube.com      	r17---sn-a5m7ln7s.c.youtube.com      
+173.194.26.23    r18.sn-a5m7ln7s.c.youtube.com      	r18---sn-a5m7ln7s.c.youtube.com      
+173.194.26.24    r19.sn-a5m7ln7s.c.youtube.com      	r19---sn-a5m7ln7s.c.youtube.com      
+173.194.26.25    r20.sn-a5m7ln7s.c.youtube.com      	r20---sn-a5m7ln7s.c.youtube.com      
+173.194.26.38    r1.sn-a5m7ln7z.c.youtube.com      	r1---sn-a5m7ln7z.c.youtube.com      
+173.194.26.39    r2.sn-a5m7ln7z.c.youtube.com      	r2---sn-a5m7ln7z.c.youtube.com      
+173.194.26.40    r3.sn-a5m7ln7z.c.youtube.com      	r3---sn-a5m7ln7z.c.youtube.com      
+173.194.26.41    r4.sn-a5m7ln7z.c.youtube.com      	r4---sn-a5m7ln7z.c.youtube.com      
+173.194.26.42    r5.sn-a5m7ln7z.c.youtube.com      	r5---sn-a5m7ln7z.c.youtube.com      
+173.194.26.43    r6.sn-a5m7ln7z.c.youtube.com      	r6---sn-a5m7ln7z.c.youtube.com      
+173.194.26.44    r7.sn-a5m7ln7z.c.youtube.com      	r7---sn-a5m7ln7z.c.youtube.com      
+173.194.26.45    r8.sn-a5m7ln7z.c.youtube.com      	r8---sn-a5m7ln7z.c.youtube.com      
+173.194.26.46    r9.sn-a5m7ln7z.c.youtube.com      	r9---sn-a5m7ln7z.c.youtube.com      
+173.194.26.47    r10.sn-a5m7ln7z.c.youtube.com      	r10---sn-a5m7ln7z.c.youtube.com      
+173.194.26.48    r11.sn-a5m7ln7z.c.youtube.com      	r11---sn-a5m7ln7z.c.youtube.com      
+173.194.26.49    r12.sn-a5m7ln7z.c.youtube.com      	r12---sn-a5m7ln7z.c.youtube.com      
+173.194.26.50    r13.sn-a5m7ln7z.c.youtube.com      	r13---sn-a5m7ln7z.c.youtube.com      
+173.194.26.51    r14.sn-a5m7ln7z.c.youtube.com      	r14---sn-a5m7ln7z.c.youtube.com      
+173.194.26.52    r15.sn-a5m7ln7z.c.youtube.com      	r15---sn-a5m7ln7z.c.youtube.com      
+173.194.26.53    r16.sn-a5m7ln7z.c.youtube.com      	r16---sn-a5m7ln7z.c.youtube.com      
+173.194.26.54    r17.sn-a5m7ln7z.c.youtube.com      	r17---sn-a5m7ln7z.c.youtube.com      
+173.194.26.55    r18.sn-a5m7ln7z.c.youtube.com      	r18---sn-a5m7ln7z.c.youtube.com      
+173.194.26.56    r19.sn-a5m7ln7z.c.youtube.com      	r19---sn-a5m7ln7z.c.youtube.com      
+173.194.26.57    r20.sn-a5m7ln7z.c.youtube.com      	r20---sn-a5m7ln7z.c.youtube.com      
+173.194.26.70    r1.sn-a5m7ln76.c.youtube.com      	r1---sn-a5m7ln76.c.youtube.com      
+173.194.26.71    r2.sn-a5m7ln76.c.youtube.com      	r2---sn-a5m7ln76.c.youtube.com      
+173.194.26.72    r3.sn-a5m7ln76.c.youtube.com      	r3---sn-a5m7ln76.c.youtube.com      
+173.194.26.73    r4.sn-a5m7ln76.c.youtube.com      	r4---sn-a5m7ln76.c.youtube.com      
+173.194.26.74    r5.sn-a5m7ln76.c.youtube.com      	r5---sn-a5m7ln76.c.youtube.com      
+173.194.26.75    r6.sn-a5m7ln76.c.youtube.com      	r6---sn-a5m7ln76.c.youtube.com      
+173.194.26.76    r7.sn-a5m7ln76.c.youtube.com      	r7---sn-a5m7ln76.c.youtube.com      
+173.194.26.77    r8.sn-a5m7ln76.c.youtube.com      	r8---sn-a5m7ln76.c.youtube.com      
+173.194.26.78    r9.sn-a5m7ln76.c.youtube.com      	r9---sn-a5m7ln76.c.youtube.com      
+173.194.26.79    r10.sn-a5m7ln76.c.youtube.com      	r10---sn-a5m7ln76.c.youtube.com      
+173.194.26.80    r11.sn-a5m7ln76.c.youtube.com      	r11---sn-a5m7ln76.c.youtube.com      
+173.194.26.81    r12.sn-a5m7ln76.c.youtube.com      	r12---sn-a5m7ln76.c.youtube.com      
+173.194.26.82    r13.sn-a5m7ln76.c.youtube.com      	r13---sn-a5m7ln76.c.youtube.com      
+173.194.26.83    r14.sn-a5m7ln76.c.youtube.com      	r14---sn-a5m7ln76.c.youtube.com      
+173.194.26.84    r15.sn-a5m7ln76.c.youtube.com      	r15---sn-a5m7ln76.c.youtube.com      
+173.194.26.85    r16.sn-a5m7ln76.c.youtube.com      	r16---sn-a5m7ln76.c.youtube.com      
+173.194.26.86    r17.sn-a5m7ln76.c.youtube.com      	r17---sn-a5m7ln76.c.youtube.com      
+173.194.26.87    r18.sn-a5m7ln76.c.youtube.com      	r18---sn-a5m7ln76.c.youtube.com      
+173.194.26.88    r19.sn-a5m7ln76.c.youtube.com      	r19---sn-a5m7ln76.c.youtube.com      
+173.194.26.89    r20.sn-a5m7ln76.c.youtube.com      	r20---sn-a5m7ln76.c.youtube.com      
+173.194.8.198    r1.sn-a5m7lnek.c.youtube.com      	r1---sn-a5m7lnek.c.youtube.com      
+173.194.8.199    r2.sn-a5m7lnek.c.youtube.com      	r2---sn-a5m7lnek.c.youtube.com      
+173.194.8.200    r3.sn-a5m7lnek.c.youtube.com      	r3---sn-a5m7lnek.c.youtube.com      
+173.194.8.201    r4.sn-a5m7lnek.c.youtube.com      	r4---sn-a5m7lnek.c.youtube.com      
+173.194.8.202    r5.sn-a5m7lnek.c.youtube.com      	r5---sn-a5m7lnek.c.youtube.com      
+173.194.8.203    r6.sn-a5m7lnek.c.youtube.com      	r6---sn-a5m7lnek.c.youtube.com      
+173.194.8.204    r7.sn-a5m7lnek.c.youtube.com      	r7---sn-a5m7lnek.c.youtube.com      
+173.194.8.205    r8.sn-a5m7lnek.c.youtube.com      	r8---sn-a5m7lnek.c.youtube.com      
+173.194.8.206    r9.sn-a5m7lnek.c.youtube.com      	r9---sn-a5m7lnek.c.youtube.com      
+173.194.8.207    r10.sn-a5m7lnek.c.youtube.com      	r10---sn-a5m7lnek.c.youtube.com      
+173.194.8.208    r11.sn-a5m7lnek.c.youtube.com      	r11---sn-a5m7lnek.c.youtube.com      
+173.194.8.209    r12.sn-a5m7lnek.c.youtube.com      	r12---sn-a5m7lnek.c.youtube.com      
+173.194.8.210    r13.sn-a5m7lnek.c.youtube.com      	r13---sn-a5m7lnek.c.youtube.com      
+173.194.8.211    r14.sn-a5m7lnek.c.youtube.com      	r14---sn-a5m7lnek.c.youtube.com      
+173.194.8.212    r15.sn-a5m7lnek.c.youtube.com      	r15---sn-a5m7lnek.c.youtube.com      
+173.194.8.213    r16.sn-a5m7lnek.c.youtube.com      	r16---sn-a5m7lnek.c.youtube.com      
+173.194.8.214    r17.sn-a5m7lnek.c.youtube.com      	r17---sn-a5m7lnek.c.youtube.com      
+173.194.8.215    r18.sn-a5m7lnek.c.youtube.com      	r18---sn-a5m7lnek.c.youtube.com      
+173.194.8.216    r19.sn-a5m7lnek.c.youtube.com      	r19---sn-a5m7lnek.c.youtube.com      
+173.194.8.217    r20.sn-a5m7lnek.c.youtube.com      	r20---sn-a5m7lnek.c.youtube.com      
+173.194.8.230    r1.sn-a5m7lner.c.youtube.com      	r1---sn-a5m7lner.c.youtube.com      
+173.194.8.231    r2.sn-a5m7lner.c.youtube.com      	r2---sn-a5m7lner.c.youtube.com      
+173.194.8.232    r3.sn-a5m7lner.c.youtube.com      	r3---sn-a5m7lner.c.youtube.com      
+173.194.8.233    r4.sn-a5m7lner.c.youtube.com      	r4---sn-a5m7lner.c.youtube.com      
+173.194.8.234    r5.sn-a5m7lner.c.youtube.com      	r5---sn-a5m7lner.c.youtube.com      
+173.194.8.235    r6.sn-a5m7lner.c.youtube.com      	r6---sn-a5m7lner.c.youtube.com      
+173.194.8.236    r7.sn-a5m7lner.c.youtube.com      	r7---sn-a5m7lner.c.youtube.com      
+173.194.8.237    r8.sn-a5m7lner.c.youtube.com      	r8---sn-a5m7lner.c.youtube.com      
+173.194.8.238    r9.sn-a5m7lner.c.youtube.com      	r9---sn-a5m7lner.c.youtube.com      
+173.194.8.239    r10.sn-a5m7lner.c.youtube.com      	r10---sn-a5m7lner.c.youtube.com      
+173.194.8.240    r11.sn-a5m7lner.c.youtube.com      	r11---sn-a5m7lner.c.youtube.com      
+173.194.8.241    r12.sn-a5m7lner.c.youtube.com      	r12---sn-a5m7lner.c.youtube.com      
+173.194.8.242    r13.sn-a5m7lner.c.youtube.com      	r13---sn-a5m7lner.c.youtube.com      
+173.194.8.243    r14.sn-a5m7lner.c.youtube.com      	r14---sn-a5m7lner.c.youtube.com      
+173.194.8.244    r15.sn-a5m7lner.c.youtube.com      	r15---sn-a5m7lner.c.youtube.com      
+173.194.8.245    r16.sn-a5m7lner.c.youtube.com      	r16---sn-a5m7lner.c.youtube.com      
+173.194.8.246    r17.sn-a5m7lner.c.youtube.com      	r17---sn-a5m7lner.c.youtube.com      
+173.194.8.247    r18.sn-a5m7lner.c.youtube.com      	r18---sn-a5m7lner.c.youtube.com      
+173.194.8.248    r19.sn-a5m7lner.c.youtube.com      	r19---sn-a5m7lner.c.youtube.com      
+173.194.8.249    r20.sn-a5m7lner.c.youtube.com      	r20---sn-a5m7lner.c.youtube.com      
+74.125.5.38    r1.sn-nx57ynel.c.youtube.com      	r1---sn-nx57ynel.c.youtube.com      
+74.125.5.39    r2.sn-nx57ynel.c.youtube.com      	r2---sn-nx57ynel.c.youtube.com      
+74.125.5.40    r3.sn-nx57ynel.c.youtube.com      	r3---sn-nx57ynel.c.youtube.com      
+74.125.5.41    r4.sn-nx57ynel.c.youtube.com      	r4---sn-nx57ynel.c.youtube.com      
+74.125.5.42    r5.sn-nx57ynel.c.youtube.com      	r5---sn-nx57ynel.c.youtube.com      
+74.125.5.43    r6.sn-nx57ynel.c.youtube.com      	r6---sn-nx57ynel.c.youtube.com      
+74.125.5.44    r7.sn-nx57ynel.c.youtube.com      	r7---sn-nx57ynel.c.youtube.com      
+74.125.5.45    r8.sn-nx57ynel.c.youtube.com      	r8---sn-nx57ynel.c.youtube.com      
+74.125.5.46    r9.sn-nx57ynel.c.youtube.com      	r9---sn-nx57ynel.c.youtube.com      
+74.125.5.47    r10.sn-nx57ynel.c.youtube.com      	r10---sn-nx57ynel.c.youtube.com      
+74.125.5.48    r11.sn-nx57ynel.c.youtube.com      	r11---sn-nx57ynel.c.youtube.com      
+74.125.5.49    r12.sn-nx57ynel.c.youtube.com      	r12---sn-nx57ynel.c.youtube.com      
+74.125.5.50    r13.sn-nx57ynel.c.youtube.com      	r13---sn-nx57ynel.c.youtube.com      
+74.125.5.51    r14.sn-nx57ynel.c.youtube.com      	r14---sn-nx57ynel.c.youtube.com      
+74.125.5.52    r15.sn-nx57ynel.c.youtube.com      	r15---sn-nx57ynel.c.youtube.com      
+74.125.5.53    r16.sn-nx57ynel.c.youtube.com      	r16---sn-nx57ynel.c.youtube.com      
+74.125.5.54    r17.sn-nx57ynel.c.youtube.com      	r17---sn-nx57ynel.c.youtube.com      
+74.125.5.55    r18.sn-nx57ynel.c.youtube.com      	r18---sn-nx57ynel.c.youtube.com      
+74.125.5.56    r19.sn-nx57ynel.c.youtube.com      	r19---sn-nx57ynel.c.youtube.com      
+74.125.5.57    r20.sn-nx57ynel.c.youtube.com      	r20---sn-nx57ynel.c.youtube.com      
+74.125.5.70    r1.sn-nx57ynes.c.youtube.com      	r1---sn-nx57ynes.c.youtube.com      
+74.125.5.71    r2.sn-nx57ynes.c.youtube.com      	r2---sn-nx57ynes.c.youtube.com      
+74.125.5.72    r3.sn-nx57ynes.c.youtube.com      	r3---sn-nx57ynes.c.youtube.com      
+74.125.5.73    r4.sn-nx57ynes.c.youtube.com      	r4---sn-nx57ynes.c.youtube.com      
+74.125.5.74    r5.sn-nx57ynes.c.youtube.com      	r5---sn-nx57ynes.c.youtube.com      
+74.125.5.75    r6.sn-nx57ynes.c.youtube.com      	r6---sn-nx57ynes.c.youtube.com      
+74.125.5.76    r7.sn-nx57ynes.c.youtube.com      	r7---sn-nx57ynes.c.youtube.com      
+74.125.5.77    r8.sn-nx57ynes.c.youtube.com      	r8---sn-nx57ynes.c.youtube.com      
+74.125.5.78    r9.sn-nx57ynes.c.youtube.com      	r9---sn-nx57ynes.c.youtube.com      
+74.125.5.79    r10.sn-nx57ynes.c.youtube.com      	r10---sn-nx57ynes.c.youtube.com      
+74.125.5.80    r11.sn-nx57ynes.c.youtube.com      	r11---sn-nx57ynes.c.youtube.com      
+74.125.5.81    r12.sn-nx57ynes.c.youtube.com      	r12---sn-nx57ynes.c.youtube.com      
+74.125.5.82    r13.sn-nx57ynes.c.youtube.com      	r13---sn-nx57ynes.c.youtube.com      
+74.125.5.83    r14.sn-nx57ynes.c.youtube.com      	r14---sn-nx57ynes.c.youtube.com      
+74.125.5.84    r15.sn-nx57ynes.c.youtube.com      	r15---sn-nx57ynes.c.youtube.com      
+74.125.5.85    r16.sn-nx57ynes.c.youtube.com      	r16---sn-nx57ynes.c.youtube.com      
+74.125.5.86    r17.sn-nx57ynes.c.youtube.com      	r17---sn-nx57ynes.c.youtube.com      
+74.125.5.87    r18.sn-nx57ynes.c.youtube.com      	r18---sn-nx57ynes.c.youtube.com      
+74.125.5.88    r19.sn-nx57ynes.c.youtube.com      	r19---sn-nx57ynes.c.youtube.com      
+74.125.5.89    r20.sn-nx57ynes.c.youtube.com      	r20---sn-nx57ynes.c.youtube.com      
+74.125.5.102    r1.sn-nx57ynez.c.youtube.com      	r1---sn-nx57ynez.c.youtube.com      
+74.125.5.103    r2.sn-nx57ynez.c.youtube.com      	r2---sn-nx57ynez.c.youtube.com      
+74.125.5.104    r3.sn-nx57ynez.c.youtube.com      	r3---sn-nx57ynez.c.youtube.com      
+74.125.5.105    r4.sn-nx57ynez.c.youtube.com      	r4---sn-nx57ynez.c.youtube.com      
+74.125.5.106    r5.sn-nx57ynez.c.youtube.com      	r5---sn-nx57ynez.c.youtube.com      
+74.125.5.107    r6.sn-nx57ynez.c.youtube.com      	r6---sn-nx57ynez.c.youtube.com      
+74.125.5.108    r7.sn-nx57ynez.c.youtube.com      	r7---sn-nx57ynez.c.youtube.com      
+74.125.5.109    r8.sn-nx57ynez.c.youtube.com      	r8---sn-nx57ynez.c.youtube.com      
+74.125.5.110    r9.sn-nx57ynez.c.youtube.com      	r9---sn-nx57ynez.c.youtube.com      
+74.125.5.111    r10.sn-nx57ynez.c.youtube.com      	r10---sn-nx57ynez.c.youtube.com      
+74.125.5.112    r11.sn-nx57ynez.c.youtube.com      	r11---sn-nx57ynez.c.youtube.com      
+74.125.5.113    r12.sn-nx57ynez.c.youtube.com      	r12---sn-nx57ynez.c.youtube.com      
+74.125.5.114    r13.sn-nx57ynez.c.youtube.com      	r13---sn-nx57ynez.c.youtube.com      
+74.125.5.115    r14.sn-nx57ynez.c.youtube.com      	r14---sn-nx57ynez.c.youtube.com      
+74.125.5.116    r15.sn-nx57ynez.c.youtube.com      	r15---sn-nx57ynez.c.youtube.com      
+74.125.5.117    r16.sn-nx57ynez.c.youtube.com      	r16---sn-nx57ynez.c.youtube.com      
+74.125.5.118    r17.sn-nx57ynez.c.youtube.com      	r17---sn-nx57ynez.c.youtube.com      
+74.125.5.119    r18.sn-nx57ynez.c.youtube.com      	r18---sn-nx57ynez.c.youtube.com      
+74.125.5.120    r19.sn-nx57ynez.c.youtube.com      	r19---sn-nx57ynez.c.youtube.com      
+74.125.5.121    r20.sn-nx57ynez.c.youtube.com      	r20---sn-nx57ynez.c.youtube.com      
+173.194.56.230    r1.sn-nx57yne7.c.youtube.com      	r1---sn-nx57yne7.c.youtube.com      
+173.194.56.231    r2.sn-nx57yne7.c.youtube.com      	r2---sn-nx57yne7.c.youtube.com      
+173.194.56.232    r3.sn-nx57yne7.c.youtube.com      	r3---sn-nx57yne7.c.youtube.com      
+173.194.56.233    r4.sn-nx57yne7.c.youtube.com      	r4---sn-nx57yne7.c.youtube.com      
+173.194.56.234    r5.sn-nx57yne7.c.youtube.com      	r5---sn-nx57yne7.c.youtube.com      
+173.194.56.235    r6.sn-nx57yne7.c.youtube.com      	r6---sn-nx57yne7.c.youtube.com      
+173.194.56.236    r7.sn-nx57yne7.c.youtube.com      	r7---sn-nx57yne7.c.youtube.com      
+173.194.56.237    r8.sn-nx57yne7.c.youtube.com      	r8---sn-nx57yne7.c.youtube.com      
+173.194.56.238    r9.sn-nx57yne7.c.youtube.com      	r9---sn-nx57yne7.c.youtube.com      
+173.194.56.239    r10.sn-nx57yne7.c.youtube.com      	r10---sn-nx57yne7.c.youtube.com      
+173.194.56.240    r11.sn-nx57yne7.c.youtube.com      	r11---sn-nx57yne7.c.youtube.com      
+173.194.56.241    r12.sn-nx57yne7.c.youtube.com      	r12---sn-nx57yne7.c.youtube.com      
+173.194.56.242    r13.sn-nx57yne7.c.youtube.com      	r13---sn-nx57yne7.c.youtube.com      
+173.194.56.243    r14.sn-nx57yne7.c.youtube.com      	r14---sn-nx57yne7.c.youtube.com      
+173.194.56.244    r15.sn-nx57yne7.c.youtube.com      	r15---sn-nx57yne7.c.youtube.com      
+173.194.56.245    r16.sn-nx57yne7.c.youtube.com      	r16---sn-nx57yne7.c.youtube.com      
+173.194.56.246    r17.sn-nx57yne7.c.youtube.com      	r17---sn-nx57yne7.c.youtube.com      
+173.194.56.247    r18.sn-nx57yne7.c.youtube.com      	r18---sn-nx57yne7.c.youtube.com      
+173.194.56.248    r19.sn-nx57yne7.c.youtube.com      	r19---sn-nx57yne7.c.youtube.com      
+173.194.56.249    r20.sn-nx57yne7.c.youtube.com      	r20---sn-nx57yne7.c.youtube.com      
+173.194.56.102    r1.sn-nx57yn7d.c.youtube.com      	r1---sn-nx57yn7d.c.youtube.com      
+173.194.56.103    r2.sn-nx57yn7d.c.youtube.com      	r2---sn-nx57yn7d.c.youtube.com      
+173.194.56.104    r3.sn-nx57yn7d.c.youtube.com      	r3---sn-nx57yn7d.c.youtube.com      
+173.194.56.105    r4.sn-nx57yn7d.c.youtube.com      	r4---sn-nx57yn7d.c.youtube.com      
+173.194.56.106    r5.sn-nx57yn7d.c.youtube.com      	r5---sn-nx57yn7d.c.youtube.com      
+173.194.56.107    r6.sn-nx57yn7d.c.youtube.com      	r6---sn-nx57yn7d.c.youtube.com      
+173.194.56.108    r7.sn-nx57yn7d.c.youtube.com      	r7---sn-nx57yn7d.c.youtube.com      
+173.194.56.109    r8.sn-nx57yn7d.c.youtube.com      	r8---sn-nx57yn7d.c.youtube.com      
+173.194.56.110    r9.sn-nx57yn7d.c.youtube.com      	r9---sn-nx57yn7d.c.youtube.com      
+173.194.56.111    r10.sn-nx57yn7d.c.youtube.com      	r10---sn-nx57yn7d.c.youtube.com      
+173.194.56.112    r11.sn-nx57yn7d.c.youtube.com      	r11---sn-nx57yn7d.c.youtube.com      
+173.194.56.113    r12.sn-nx57yn7d.c.youtube.com      	r12---sn-nx57yn7d.c.youtube.com      
+173.194.56.114    r13.sn-nx57yn7d.c.youtube.com      	r13---sn-nx57yn7d.c.youtube.com      
+173.194.56.115    r14.sn-nx57yn7d.c.youtube.com      	r14---sn-nx57yn7d.c.youtube.com      
+173.194.56.116    r15.sn-nx57yn7d.c.youtube.com      	r15---sn-nx57yn7d.c.youtube.com      
+173.194.56.117    r16.sn-nx57yn7d.c.youtube.com      	r16---sn-nx57yn7d.c.youtube.com      
+173.194.56.118    r17.sn-nx57yn7d.c.youtube.com      	r17---sn-nx57yn7d.c.youtube.com      
+173.194.56.119    r18.sn-nx57yn7d.c.youtube.com      	r18---sn-nx57yn7d.c.youtube.com      
+173.194.56.120    r19.sn-nx57yn7d.c.youtube.com      	r19---sn-nx57yn7d.c.youtube.com      
+173.194.56.121    r20.sn-nx57yn7d.c.youtube.com      	r20---sn-nx57yn7d.c.youtube.com      
+173.194.56.134    r1.sn-nx57yn7k.c.youtube.com      	r1---sn-nx57yn7k.c.youtube.com      
+173.194.56.135    r2.sn-nx57yn7k.c.youtube.com      	r2---sn-nx57yn7k.c.youtube.com      
+173.194.56.136    r3.sn-nx57yn7k.c.youtube.com      	r3---sn-nx57yn7k.c.youtube.com      
+173.194.56.137    r4.sn-nx57yn7k.c.youtube.com      	r4---sn-nx57yn7k.c.youtube.com      
+173.194.56.138    r5.sn-nx57yn7k.c.youtube.com      	r5---sn-nx57yn7k.c.youtube.com      
+173.194.56.139    r6.sn-nx57yn7k.c.youtube.com      	r6---sn-nx57yn7k.c.youtube.com      
+173.194.56.140    r7.sn-nx57yn7k.c.youtube.com      	r7---sn-nx57yn7k.c.youtube.com      
+173.194.56.141    r8.sn-nx57yn7k.c.youtube.com      	r8---sn-nx57yn7k.c.youtube.com      
+173.194.56.142    r9.sn-nx57yn7k.c.youtube.com      	r9---sn-nx57yn7k.c.youtube.com      
+173.194.56.143    r10.sn-nx57yn7k.c.youtube.com      	r10---sn-nx57yn7k.c.youtube.com      
+173.194.56.144    r11.sn-nx57yn7k.c.youtube.com      	r11---sn-nx57yn7k.c.youtube.com      
+173.194.56.145    r12.sn-nx57yn7k.c.youtube.com      	r12---sn-nx57yn7k.c.youtube.com      
+173.194.56.146    r13.sn-nx57yn7k.c.youtube.com      	r13---sn-nx57yn7k.c.youtube.com      
+173.194.56.147    r14.sn-nx57yn7k.c.youtube.com      	r14---sn-nx57yn7k.c.youtube.com      
+173.194.56.148    r15.sn-nx57yn7k.c.youtube.com      	r15---sn-nx57yn7k.c.youtube.com      
+173.194.56.149    r16.sn-nx57yn7k.c.youtube.com      	r16---sn-nx57yn7k.c.youtube.com      
+173.194.56.150    r17.sn-nx57yn7k.c.youtube.com      	r17---sn-nx57yn7k.c.youtube.com      
+173.194.56.151    r18.sn-nx57yn7k.c.youtube.com      	r18---sn-nx57yn7k.c.youtube.com      
+173.194.56.152    r19.sn-nx57yn7k.c.youtube.com      	r19---sn-nx57yn7k.c.youtube.com      
+173.194.56.153    r20.sn-nx57yn7k.c.youtube.com      	r20---sn-nx57yn7k.c.youtube.com      
+173.194.56.166    r1.sn-nx57yn7r.c.youtube.com      	r1---sn-nx57yn7r.c.youtube.com      
+173.194.56.167    r2.sn-nx57yn7r.c.youtube.com      	r2---sn-nx57yn7r.c.youtube.com      
+173.194.56.168    r3.sn-nx57yn7r.c.youtube.com      	r3---sn-nx57yn7r.c.youtube.com      
+173.194.56.169    r4.sn-nx57yn7r.c.youtube.com      	r4---sn-nx57yn7r.c.youtube.com      
+173.194.56.170    r5.sn-nx57yn7r.c.youtube.com      	r5---sn-nx57yn7r.c.youtube.com      
+173.194.56.171    r6.sn-nx57yn7r.c.youtube.com      	r6---sn-nx57yn7r.c.youtube.com      
+173.194.56.172    r7.sn-nx57yn7r.c.youtube.com      	r7---sn-nx57yn7r.c.youtube.com      
+173.194.56.173    r8.sn-nx57yn7r.c.youtube.com      	r8---sn-nx57yn7r.c.youtube.com      
+173.194.56.174    r9.sn-nx57yn7r.c.youtube.com      	r9---sn-nx57yn7r.c.youtube.com      
+173.194.56.175    r10.sn-nx57yn7r.c.youtube.com      	r10---sn-nx57yn7r.c.youtube.com      
+173.194.56.176    r11.sn-nx57yn7r.c.youtube.com      	r11---sn-nx57yn7r.c.youtube.com      
+173.194.56.177    r12.sn-nx57yn7r.c.youtube.com      	r12---sn-nx57yn7r.c.youtube.com      
+173.194.56.178    r13.sn-nx57yn7r.c.youtube.com      	r13---sn-nx57yn7r.c.youtube.com      
+173.194.56.179    r14.sn-nx57yn7r.c.youtube.com      	r14---sn-nx57yn7r.c.youtube.com      
+173.194.56.180    r15.sn-nx57yn7r.c.youtube.com      	r15---sn-nx57yn7r.c.youtube.com      
+173.194.56.181    r16.sn-nx57yn7r.c.youtube.com      	r16---sn-nx57yn7r.c.youtube.com      
+173.194.56.182    r17.sn-nx57yn7r.c.youtube.com      	r17---sn-nx57yn7r.c.youtube.com      
+173.194.56.183    r18.sn-nx57yn7r.c.youtube.com      	r18---sn-nx57yn7r.c.youtube.com      
+173.194.56.184    r19.sn-nx57yn7r.c.youtube.com      	r19---sn-nx57yn7r.c.youtube.com      
+173.194.56.185    r20.sn-nx57yn7r.c.youtube.com      	r20---sn-nx57yn7r.c.youtube.com      
+173.194.56.6    r1.sn-nx57yn7s.c.youtube.com      	r1---sn-nx57yn7s.c.youtube.com      
+173.194.56.7    r2.sn-nx57yn7s.c.youtube.com      	r2---sn-nx57yn7s.c.youtube.com      
+173.194.56.8    r3.sn-nx57yn7s.c.youtube.com      	r3---sn-nx57yn7s.c.youtube.com      
+173.194.56.9    r4.sn-nx57yn7s.c.youtube.com      	r4---sn-nx57yn7s.c.youtube.com      
+173.194.56.10    r5.sn-nx57yn7s.c.youtube.com      	r5---sn-nx57yn7s.c.youtube.com      
+173.194.56.11    r6.sn-nx57yn7s.c.youtube.com      	r6---sn-nx57yn7s.c.youtube.com      
+173.194.56.12    r7.sn-nx57yn7s.c.youtube.com      	r7---sn-nx57yn7s.c.youtube.com      
+173.194.56.13    r8.sn-nx57yn7s.c.youtube.com      	r8---sn-nx57yn7s.c.youtube.com      
+173.194.56.14    r9.sn-nx57yn7s.c.youtube.com      	r9---sn-nx57yn7s.c.youtube.com      
+173.194.56.15    r10.sn-nx57yn7s.c.youtube.com      	r10---sn-nx57yn7s.c.youtube.com      
+173.194.56.16    r11.sn-nx57yn7s.c.youtube.com      	r11---sn-nx57yn7s.c.youtube.com      
+173.194.56.17    r12.sn-nx57yn7s.c.youtube.com      	r12---sn-nx57yn7s.c.youtube.com      
+173.194.56.18    r13.sn-nx57yn7s.c.youtube.com      	r13---sn-nx57yn7s.c.youtube.com      
+173.194.56.19    r14.sn-nx57yn7s.c.youtube.com      	r14---sn-nx57yn7s.c.youtube.com      
+173.194.56.20    r15.sn-nx57yn7s.c.youtube.com      	r15---sn-nx57yn7s.c.youtube.com      
+173.194.56.21    r16.sn-nx57yn7s.c.youtube.com      	r16---sn-nx57yn7s.c.youtube.com      
+173.194.56.22    r17.sn-nx57yn7s.c.youtube.com      	r17---sn-nx57yn7s.c.youtube.com      
+173.194.56.23    r18.sn-nx57yn7s.c.youtube.com      	r18---sn-nx57yn7s.c.youtube.com      
+173.194.56.24    r19.sn-nx57yn7s.c.youtube.com      	r19---sn-nx57yn7s.c.youtube.com      
+173.194.56.25    r20.sn-nx57yn7s.c.youtube.com      	r20---sn-nx57yn7s.c.youtube.com      
+173.194.56.198    r1.sn-nx57yn7y.c.youtube.com      	r1---sn-nx57yn7y.c.youtube.com      
+173.194.56.199    r2.sn-nx57yn7y.c.youtube.com      	r2---sn-nx57yn7y.c.youtube.com      
+173.194.56.200    r3.sn-nx57yn7y.c.youtube.com      	r3---sn-nx57yn7y.c.youtube.com      
+173.194.56.201    r4.sn-nx57yn7y.c.youtube.com      	r4---sn-nx57yn7y.c.youtube.com      
+173.194.56.202    r5.sn-nx57yn7y.c.youtube.com      	r5---sn-nx57yn7y.c.youtube.com      
+173.194.56.203    r6.sn-nx57yn7y.c.youtube.com      	r6---sn-nx57yn7y.c.youtube.com      
+173.194.56.204    r7.sn-nx57yn7y.c.youtube.com      	r7---sn-nx57yn7y.c.youtube.com      
+173.194.56.205    r8.sn-nx57yn7y.c.youtube.com      	r8---sn-nx57yn7y.c.youtube.com      
+173.194.56.206    r9.sn-nx57yn7y.c.youtube.com      	r9---sn-nx57yn7y.c.youtube.com      
+173.194.56.207    r10.sn-nx57yn7y.c.youtube.com      	r10---sn-nx57yn7y.c.youtube.com      
+173.194.56.208    r11.sn-nx57yn7y.c.youtube.com      	r11---sn-nx57yn7y.c.youtube.com      
+173.194.56.209    r12.sn-nx57yn7y.c.youtube.com      	r12---sn-nx57yn7y.c.youtube.com      
+173.194.56.210    r13.sn-nx57yn7y.c.youtube.com      	r13---sn-nx57yn7y.c.youtube.com      
+173.194.56.211    r14.sn-nx57yn7y.c.youtube.com      	r14---sn-nx57yn7y.c.youtube.com      
+173.194.56.212    r15.sn-nx57yn7y.c.youtube.com      	r15---sn-nx57yn7y.c.youtube.com      
+173.194.56.213    r16.sn-nx57yn7y.c.youtube.com      	r16---sn-nx57yn7y.c.youtube.com      
+173.194.56.214    r17.sn-nx57yn7y.c.youtube.com      	r17---sn-nx57yn7y.c.youtube.com      
+173.194.56.215    r18.sn-nx57yn7y.c.youtube.com      	r18---sn-nx57yn7y.c.youtube.com      
+173.194.56.216    r19.sn-nx57yn7y.c.youtube.com      	r19---sn-nx57yn7y.c.youtube.com      
+173.194.56.217    r20.sn-nx57yn7y.c.youtube.com      	r20---sn-nx57yn7y.c.youtube.com      
+173.194.56.38    r1.sn-nx57yn7z.c.youtube.com      	r1---sn-nx57yn7z.c.youtube.com      
+173.194.56.39    r2.sn-nx57yn7z.c.youtube.com      	r2---sn-nx57yn7z.c.youtube.com      
+173.194.56.40    r3.sn-nx57yn7z.c.youtube.com      	r3---sn-nx57yn7z.c.youtube.com      
+173.194.56.41    r4.sn-nx57yn7z.c.youtube.com      	r4---sn-nx57yn7z.c.youtube.com      
+173.194.56.42    r5.sn-nx57yn7z.c.youtube.com      	r5---sn-nx57yn7z.c.youtube.com      
+173.194.56.43    r6.sn-nx57yn7z.c.youtube.com      	r6---sn-nx57yn7z.c.youtube.com      
+173.194.56.44    r7.sn-nx57yn7z.c.youtube.com      	r7---sn-nx57yn7z.c.youtube.com      
+173.194.56.45    r8.sn-nx57yn7z.c.youtube.com      	r8---sn-nx57yn7z.c.youtube.com      
+173.194.56.46    r9.sn-nx57yn7z.c.youtube.com      	r9---sn-nx57yn7z.c.youtube.com      
+173.194.56.47    r10.sn-nx57yn7z.c.youtube.com      	r10---sn-nx57yn7z.c.youtube.com      
+173.194.56.48    r11.sn-nx57yn7z.c.youtube.com      	r11---sn-nx57yn7z.c.youtube.com      
+173.194.56.49    r12.sn-nx57yn7z.c.youtube.com      	r12---sn-nx57yn7z.c.youtube.com      
+173.194.56.50    r13.sn-nx57yn7z.c.youtube.com      	r13---sn-nx57yn7z.c.youtube.com      
+173.194.56.51    r14.sn-nx57yn7z.c.youtube.com      	r14---sn-nx57yn7z.c.youtube.com      
+173.194.56.52    r15.sn-nx57yn7z.c.youtube.com      	r15---sn-nx57yn7z.c.youtube.com      
+173.194.56.53    r16.sn-nx57yn7z.c.youtube.com      	r16---sn-nx57yn7z.c.youtube.com      
+173.194.56.54    r17.sn-nx57yn7z.c.youtube.com      	r17---sn-nx57yn7z.c.youtube.com      
+173.194.56.55    r18.sn-nx57yn7z.c.youtube.com      	r18---sn-nx57yn7z.c.youtube.com      
+173.194.56.56    r19.sn-nx57yn7z.c.youtube.com      	r19---sn-nx57yn7z.c.youtube.com      
+173.194.56.57    r20.sn-nx57yn7z.c.youtube.com      	r20---sn-nx57yn7z.c.youtube.com      
+173.194.56.70    r1.sn-nx57yn76.c.youtube.com      	r1---sn-nx57yn76.c.youtube.com      
+173.194.56.71    r2.sn-nx57yn76.c.youtube.com      	r2---sn-nx57yn76.c.youtube.com      
+173.194.56.72    r3.sn-nx57yn76.c.youtube.com      	r3---sn-nx57yn76.c.youtube.com      
+173.194.56.73    r4.sn-nx57yn76.c.youtube.com      	r4---sn-nx57yn76.c.youtube.com      
+173.194.56.74    r5.sn-nx57yn76.c.youtube.com      	r5---sn-nx57yn76.c.youtube.com      
+173.194.56.75    r6.sn-nx57yn76.c.youtube.com      	r6---sn-nx57yn76.c.youtube.com      
+173.194.56.76    r7.sn-nx57yn76.c.youtube.com      	r7---sn-nx57yn76.c.youtube.com      
+173.194.56.77    r8.sn-nx57yn76.c.youtube.com      	r8---sn-nx57yn76.c.youtube.com      
+173.194.56.78    r9.sn-nx57yn76.c.youtube.com      	r9---sn-nx57yn76.c.youtube.com      
+173.194.56.79    r10.sn-nx57yn76.c.youtube.com      	r10---sn-nx57yn76.c.youtube.com      
+173.194.56.80    r11.sn-nx57yn76.c.youtube.com      	r11---sn-nx57yn76.c.youtube.com      
+173.194.56.81    r12.sn-nx57yn76.c.youtube.com      	r12---sn-nx57yn76.c.youtube.com      
+173.194.56.82    r13.sn-nx57yn76.c.youtube.com      	r13---sn-nx57yn76.c.youtube.com      
+173.194.56.83    r14.sn-nx57yn76.c.youtube.com      	r14---sn-nx57yn76.c.youtube.com      
+173.194.56.84    r15.sn-nx57yn76.c.youtube.com      	r15---sn-nx57yn76.c.youtube.com      
+173.194.56.85    r16.sn-nx57yn76.c.youtube.com      	r16---sn-nx57yn76.c.youtube.com      
+173.194.56.86    r17.sn-nx57yn76.c.youtube.com      	r17---sn-nx57yn76.c.youtube.com      
+173.194.56.87    r18.sn-nx57yn76.c.youtube.com      	r18---sn-nx57yn76.c.youtube.com      
+173.194.56.88    r19.sn-nx57yn76.c.youtube.com      	r19---sn-nx57yn76.c.youtube.com      
+173.194.56.89    r20.sn-nx57yn76.c.youtube.com      	r20---sn-nx57yn76.c.youtube.com      
